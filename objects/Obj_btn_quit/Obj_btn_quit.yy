@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "Obj_btn_quit",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_btn_parent","path":"objects/Obj_btn_parent/Obj_btn_parent.yy",},"propertyId":{"name":"btn_font","path":"objects/Obj_btn_parent/Obj_btn_parent.yy",},"value":"Quit",},
+  ],
+  "parent": {
+    "name": "Game Menu",
+    "path": "folders/Objects/Game Menu.yy",
+  },
+  "parentObjectId": {
+    "name": "Obj_btn_parent",
+    "path": "objects/Obj_btn_parent/Obj_btn_parent.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "Spr_ui_menu",
+    "path": "sprites/Spr_ui_menu/Spr_ui_menu.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
