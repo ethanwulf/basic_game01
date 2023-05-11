@@ -35,6 +35,7 @@
     {"name":"player_input","order":1,"path":"scripts/player_input/player_input.yy",},
     {"name":"Rm_room1","order":1,"path":"rooms/Rm_room1/Rm_room1.yy",},
     {"name":"Spr_player02","order":6,"path":"sprites/Spr_player02/Spr_player02.yy",},
+    {"name":"Obj_test","order":14,"path":"objects/Obj_test/Obj_test.yy",},
     {"name":"Spr_player01","order":3,"path":"sprites/Spr_player01/Spr_player01.yy",},
     {"name":"Obj_game_text","order":2,"path":"objects/Obj_game_text/Obj_game_text.yy",},
     {"name":"Obj_player2","order":13,"path":"objects/Obj_player2/Obj_player2.yy",},

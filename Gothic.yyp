@@ -52,6 +52,7 @@
     {"id":{"name":"player_input","path":"scripts/player_input/player_input.yy",},},
     {"id":{"name":"Rm_room1","path":"rooms/Rm_room1/Rm_room1.yy",},},
     {"id":{"name":"Spr_player02","path":"sprites/Spr_player02/Spr_player02.yy",},},
+    {"id":{"name":"Obj_test","path":"objects/Obj_test/Obj_test.yy",},},
     {"id":{"name":"sfx_select","path":"sounds/sfx_select/sfx_select.yy",},},
     {"id":{"name":"Spr_player01","path":"sprites/Spr_player01/Spr_player01.yy",},},
     {"id":{"name":"Fnt_font","path":"fonts/Fnt_font/Fnt_font.yy",},},
